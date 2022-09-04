@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.bg{
+    background-color: #FFFFFF;
+}
+.bg-color{
+    background-color: #F4F4F4;
+}
+.slider-section{
+    background-color: #FEEAE9;
+}
+.link-button button{
+    background-image:linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: none;
+    padding: 5px 10px;
+    margin-bottom: 3px;
+}
